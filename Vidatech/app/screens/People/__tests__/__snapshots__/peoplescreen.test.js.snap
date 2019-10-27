@@ -7,7 +7,7 @@ exports[`People Screen Tests ==>  Test People Comp 1`] = `
       "backgroundColor": "lightgrey",
       "flex": 1,
       "marginTop": 60,
-      "paddingBottom": 60,
+      "paddingBottom": 55,
     }
   }
 >

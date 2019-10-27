@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Room Components Test Room Item 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexDirection": "row",
+      "marginBottom": 10,
+      "marginHorizontal": 10,
+      "paddingLeft": 10,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "justifyContent": "center",
+        "padding": 5,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      pixel
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "grey",
+          "fontSize": 14,
+        }
+      }
+    >
+      Created At 29 Apr 2019
+    </Text>
+    <Text
+      style={
+        Array [
+          "Available",
+          Object {
+            "color": "green",
+          },
+        ]
+      }
+    >
+      Available
+    </Text>
+  </View>
+</View>
+`;

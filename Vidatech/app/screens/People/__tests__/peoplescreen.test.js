@@ -3,7 +3,7 @@ import reactTestRenderer from 'react-test-renderer'
 
 import { PeopleItem } from '../PeopleItem'
 import { People } from '../'
-import { people, PeopleResponse } from '../testdata'
+import { people, PeopleResponse } from '../../testdata'
 
 describe('People Screen Tests ==> ', () => {
 

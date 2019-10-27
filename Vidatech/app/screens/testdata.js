@@ -12,6 +12,20 @@ export const people = {
     "name": "Jan Thompson",
 }
 
+export const room = {
+    "id": "1",
+    "createdAt": "2019-04-29T03:44:45.496Z",
+    "name": "pixel",
+    "isOccupied": false
+};
+
+export const roomResponse = [{
+    "id": "1",
+    "createdAt": "2019-04-29T03:44:45.496Z",
+    "name": "pixel",
+    "isOccupied": false
+}];
+
 export const PeopleResponse = [{
     "id": "1",
     "createdAt": "2019-04-29T10:04:24.713Z",
