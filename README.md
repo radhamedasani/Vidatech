@@ -11,7 +11,8 @@ People and Screens are implemented as below
 6)Available Rooms are displayed by default
 7)Checkbox is provided to view all rooms
 
-Run 
+Run
+npm install to install packages
 npm ios to view screens on iOS
 npm android to view screens on android
 npm test to view unit tests
