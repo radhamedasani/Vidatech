@@ -1,7 +1,8 @@
 # Vidatech
+
 Vidatech Interview Test
 
-People and Rooms Screens are implemented as below
+<b>People and Rooms Screens are implemented as below</b>
 
 1)Rooms and People are displayed in 2 different tabs
 
@@ -17,7 +18,7 @@ People and Rooms Screens are implemented as below
 
 7)Checkbox is provided to view all rooms
 
-Run below commands for testing
+<b>Run below commands for testing</b>
 
 npm install to install packages
 
