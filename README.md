@@ -1,7 +1,7 @@
 # Vidatech
 Vidatech Interview Test
 
-People and Screens are implemented as below
+People and Rooms Screens are implemented as below
 
 1)Rooms and People are displayed in 2 different tabs
 2)People are displayed in a list with details Name,Created At,Job Title,Email,avatar etc.,
