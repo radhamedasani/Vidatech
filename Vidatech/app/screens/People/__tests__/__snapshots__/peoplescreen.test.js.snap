@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`People Screen Tests ==>  Test People Comp 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "lightgrey",
+      "flex": 1,
+      "marginTop": 60,
+      "paddingBottom": 60,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#882758",
+        "height": 60,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 24,
+        }
+      }
+    >
+      Vidatec
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginTop": 10,
+      }
+    }
+  >
+    <ActivityIndicator
+      animating={true}
+      color="#999999"
+      hidesWhenStopped={true}
+      size="small"
+    />
+  </View>
+</View>
+`;
+
+exports[`People Screen Tests ==>  Test People Item 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexDirection": "row",
+      "marginBottom": 10,
+      "marginHorizontal": 10,
+      "paddingLeft": 10,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 70,
+        "width": 70,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "position": "absolute",
+          },
+          Object {
+            "height": 70,
+            "width": 70,
+          },
+        ]
+      }
+    >
+      <ActivityIndicator
+        animating={true}
+        color="#999999"
+        hidesWhenStopped={true}
+        size="large"
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+            "position": "absolute",
+          },
+          Object {
+            "height": 70,
+            "width": 70,
+          },
+        ]
+      }
+    >
+      <Image
+        onError={[Function]}
+        onLoad={[Function]}
+        source={
+          Object {
+            "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/johndezember/128.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 70,
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "paddingLeft": 20,
+        "paddingVertical": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 16,
+          },
+          Object {
+            "color": "#023a77",
+          },
+        ]
+      }
+    >
+      Jan Thompson
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "grey",
+          "fontSize": 14,
+        }
+      }
+    >
+      Dynamic Implementation Designer
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "grey",
+          "fontSize": 14,
+        }
+      }
+    >
+      Joined On 29 Apr 2019
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "blue",
+          "fontSize": 14,
+        }
+      }
+    >
+      Benny78@gmail.com
+    </Text>
+  </View>
+</View>
+`;

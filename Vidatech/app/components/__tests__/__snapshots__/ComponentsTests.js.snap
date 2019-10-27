@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Custom Components Tests ==> Test Box Container 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "flexDirection": "row",
+      "marginBottom": 10,
+      "marginHorizontal": 10,
+      "paddingLeft": 10,
+    }
+  }
+/>
+`;
+
+exports[`Custom Components Tests ==> Test Header Component 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#882758",
+      "height": 60,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 24,
+      }
+    }
+  >
+    Vidatec
+  </Text>
+</View>
+`;
+
+exports[`Custom Components Tests ==> Test Image Loader 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "position": "absolute",
+        },
+        undefined,
+      ]
+    }
+  >
+    <ActivityIndicator
+      animating={true}
+      color="#999999"
+      hidesWhenStopped={true}
+      size="large"
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "position": "absolute",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Image
+      onError={[Function]}
+      onLoad={[Function]}
+      source={
+        Object {
+          "uri": undefined,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Custom Components Tests ==> Test Search bar 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderColor": "grey",
+      "borderRadius": 20,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "height": 50,
+      "marginBottom": 10,
+      "marginHorizontal": 10,
+      "paddingHorizontal": 10,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Test People"
+    placeholderTextColor="grey"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "color": "#000",
+        "fontSize": 16,
+        "height": "100%",
+        "marginLeft": 10,
+        "width": "90%",
+      }
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+  <Image
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    source={
+      Object {
+        "testUri": "../../../app/components/Search/Images/search.png",
+      }
+    }
+    style={
+      Object {
+        "height": 25,
+        "width": 25,
+      }
+    }
+  />
+</View>
+`;
