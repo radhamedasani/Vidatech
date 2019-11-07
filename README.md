@@ -1,10 +1,8 @@
 # Vidatech
 
-Vidatech Interview Test
-
 <b>People and Rooms Screens are implemented as below</b>
 
-1)Rooms and People are displayed in 2 different tabs
+1)Rooms and People are displayed in 2 different tabs using Remote API's
 
 2)People are displayed in a list with details Name,Created At,Job Title,Email,avatar etc.,
 
@@ -17,6 +15,9 @@ Vidatech Interview Test
 6)Available Rooms are displayed by default
 
 7)Checkbox is provided to view all rooms
+
+8)Burger Menu Implementation for both rooms and people
+
 
 <b>Run below commands for testing</b>
 
