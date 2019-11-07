@@ -31,12 +31,13 @@ export const baseStyle = StyleSheet.create({
         flex: 1,
         backgroundColor: 'lightgrey',
         marginTop: Platform.select({
-            ios: 60,
+            ios: 40,
         }),
-        paddingBottom: 55
+        //paddingBottom: 55
     },
     list: {
         marginTop: padding.sm,
-        flex: 1
+        flex: 1,
+        marginBottom:55
     }
 })
